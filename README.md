@@ -32,7 +32,6 @@ src
 │   │   ├── bateria-1.jpg
 │   │   ├── cantante-1.jpg
 │   │   ├── cantante-2.jpg
-│   │   ├── festival\ copy.jpg
 │   │   ├── festival.jpg
 │   │   ├── guitarrista-1.jpg
 │   │   ├── guitarrista-2.jpg
@@ -85,6 +84,6 @@ src
 
 Cada vez que realizamos cambios en la rama main se deploya automáticamente el sitio web en la plataforma netlify
 
-Url del proyecto: https://por-definir.netlify.app/
+Url del proyecto: https://cerulean-kringle-87662b.netlify.app
 
 ### 🤹 Feliz desarrollo !
