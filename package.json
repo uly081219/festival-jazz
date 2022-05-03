@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uly081219/cv"
+    "url": "git+https://github.com/uly081219/festival-jazz"
   },
   "author": {
     "name": "Ulyana Sudlenkova",
@@ -32,9 +32,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uly081219/cv/issues"
+    "url": "https://github.com/uly081219/festival-jazz/issues"
   },
-  "homepage": "https://github.com/uly081219/cv#readme",
+  "homepage": "https://github.com/uly081219/festival-jazz#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.3.2",
     "autoprefixer": "^10.4.2",
